@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm Preethi
 Technical Lead - Quality Assurance
 
+- 🔭 I’m currently working on Selenium, Python, PyTest
+- 🌱 I’m currently learning Statistics, Data Analysis
+- 🗒️ Know more about my experiences: https://www.linkedin.com/in/preethiwarrier1610/ 
+
 <!--
 **pre-coder-tech/pre-coder-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
