@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Preethi
 Technical Lead - Quality Assurance
 
-- 🔭 I’m currently working on Selenium, Python, PyTest
+- 🔭 I’m currently working on Selenium, WebDriver, Python, PyTest
 - 🌱 I’m currently learning Statistics, Data Analysis
 - 🗒️ Know more about my experiences: https://www.linkedin.com/in/preethiwarrier1610/ 
 
